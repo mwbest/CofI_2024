@@ -6,3 +6,4 @@ I will mention it in my notes tho.
 Okay, I restored the pykosmos functions in the pipeline. the file with 0710 is the newest one that you can use.
 I would be mentioning dates in the name so that it is easier to track which one is the latest.
 I posted the new clean pipeline but it has some errors that I am working on trouble shooting.
+I did the silly idea and now the pipeline is working with the old apextract. I renamed it to be apextract_re.py.
