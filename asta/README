@@ -7,3 +7,4 @@ Okay, I restored the pykosmos functions in the pipeline. the file with 0710 is t
 I would be mentioning dates in the name so that it is easier to track which one is the latest.
 I posted the new clean pipeline but it has some errors that I am working on trouble shooting.
 I did the silly idea and now the pipeline is working with the old apextract. I renamed it to be apextract_re.py.
+Added the H17_47 star spectra.
