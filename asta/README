@@ -9,3 +9,4 @@ I posted the new clean pipeline but it has some errors that I am working on trou
 I did the silly idea and now the pipeline is working with the old apextract. I renamed it to be apextract_re.py.
 Added the H17_47 star spectra.
 I re-ran the code for Rv-2 and put the new notebook as the 0718 seems to be invalid for some reason.
+I added a couple voigt curve fittings for RV-2 and H17_47.  
