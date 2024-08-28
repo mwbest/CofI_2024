@@ -12,3 +12,4 @@ I re-ran the code for Rv-2 and put the new notebook as the 0718 seems to be inva
 I added a couple voigt curve fittings for RV-2 and H17_47.  
 
 08/28 --> Added the code commented and barycentric correction applied version of the pipeline. 
+Added the rereduced Ignacio's star pipeline working on getting the RV.
